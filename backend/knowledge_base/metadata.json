@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "6466f24e-662f-4913-b984-590ad71aa263",
+    "doc_id": "2dff8214-5026-45ea-b6d6-6b4c3caaa6a5",
+    "filename": "SafeSight_Audit_Report_20261022_195943.pdf",
+    "page": 1,
+    "chunk_index": 0,
+    "text": "SAFESIGHT AI Workplace Safety & PPE Monitoring System Audit Date: October 22, 2026 Time: 19:59:43 UTC Doc: SafeSight_Audit_Report_20... 1. Executive Compliance Scorecard Overall Compliance Total Inspections Total Violations High-Severity Hazards 22.2% 9 29 29 2. PPE Non-Compliance Breakdown PPE Category Detected Violations Risk Severity Standard OSHA / Safety Protocol Hard Hat / Helmet 3 HIGH Mandatory overhead protection in all active industrial zones. High-Visibility Safety Vest 26 HIGH Required for vehicular and heavy equipment traffic visibility. Protective Eyewear / Goggles 0 MEDIUM Required in cutting, grinding, chemical, and welding areas. 3. Detailed Violation Records & Audit Status (29 Records) Snapshot Inspection Ref Violation Type Severity Conf Audit Status INSP-20261022195916-0009 Screenshot_2026- Missing Safety Vest High 90% Detected INSP-20261022195916-0009 Screenshot_2026- Missing Safety Vest High 81% Detected INSP-20261022195916-0009 Screenshot_2026- Missing Safety Vest High 73% Detected INSP-20261022195916-0009 Screenshot_2026- Missing Safety Vest High 62% Detected INSP-20261022195916-0009 Screenshot_2026- Missing Safety Vest High 54% Detected",
+    "word_count": 148
+  },
+  {
+    "chunk_id": "e072a9cc-41e0-4f2c-9a5b-723f26490e99",
+    "doc_id": "2dff8214-5026-45ea-b6d6-6b4c3caaa6a5",
+    "filename": "SafeSight_Audit_Report_20261022_195943.pdf",
+    "page": 2,
+    "chunk_index": 1,
+    "text": "INSP-20261022195916-0009 Screenshot_2026- Missing Safety Vest High 50% Detected INSP-20261022195916-0009 Screenshot_2026- Missing Safety Vest High 94% Detected INSP-20261022195916-0009 Screenshot_2026- Missing Safety Vest High 90% Detected INSP-20261022192954-0008 Screenshot_2026- Missing Safety Vest High 94% Detected INSP-20261022192954-0008 Screenshot_2026- Missing Safety Vest High 90% Detected INSP-20261022192954-0008 Screenshot_2026- Missing Safety Vest High 90% Detected INSP-20261022192954-0008 Screenshot_2026- Missing Safety Vest High 81% Detected INSP-20261022192954-0008 Screenshot_2026- Missing Safety Vest High 73% Detected INSP-20261022192954-0008 Screenshot_2026- Missing Safety Vest High 62% Detected INSP-20261022192954-0008 Screenshot_2026- Missing Safety Vest High 54% Detected 4. Corrective Action & Recommendations • Zone Access Control: Enforce automatic gate interlocks where high-severity helmet or vest infractions are detected. • Worker Verification: All items marked as 'Requires Review' should be audited by designated safety officers via the SafeSight AI Audit portal. • Auditing Schedule: Periodic reviews should be conducted daily to verify false positive rates and calibrate detection thresholds. Generated automatically by SafeSight AI Workplace Safety Monitoring System. Compliant with industrial visual inspection standards. Confidential – for internal safety compliance use only.",
+    "word_count": 164
+  }
+]

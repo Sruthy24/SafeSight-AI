@@ -1,0 +1,21 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+flask-jwt-extended>=4.6.0
+python-dotenv>=1.0.0
+ultralytics>=8.1.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+reportlab>=4.0.0
+werkzeug>=3.0.0
+
+# ── Milestone 2: Document Intelligence ──────────────────────────────────────
+pymupdf>=1.23.0
+pytesseract>=0.3.10
+sentence-transformers>=2.7.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+
+# ── Milestone 3: Multimodal RAG & LangGraph Workflows ───────────────────────
+chromadb>=0.4.0
+langgraph>=0.2.0
+langchain-core>=0.3.0

@@ -1,0 +1,61 @@
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node.js & Vite
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Model Weights
+*.pt
+backend/models/*.pt
+!backend/models/README.md
+!backend/models/download_ppe_model.py
+
+# User Uploads, Processed Media & Reports
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/processed/*
+!backend/processed/.gitkeep
+backend/processed/snapshots/*
+!backend/processed/snapshots/.gitkeep
+backend/reports/*.pdf
+
+# SQLite Database
+backend/database/*.db
+backend/database/*.db-journal
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
