@@ -347,4 +347,5 @@ npm run build
 Developed for the **Infosys Springboard Virtual Internship**.
 Licensed under the Apache 2.0 / MIT License.
 #   S a f e S i g h t - A I  
+ #   S a f e S i g h t - A I  
  
